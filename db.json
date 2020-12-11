@@ -101,13 +101,54 @@
       "id": 10
     },
     {
-      "titulo": "Star Wars: A Ascensão Skywalker",
-      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UX182_CR0,0,182,268_AL_.jpg",
-      "dtLancamento": "2019-12-19T03:00:00.000Z",
-      "descricao": "In Theaters Now\nAfter Palpatine mysteriously returns, the Resistance faces the First Order once more in the final chapter of the Skywalker saga.",
-      "nota": 6.9,
-      "urlIMDb": "https://www.imdb.com/title/tt2527338/?ref_=vi_md_ti",
-      "genero": "Aventura",
+      "titulo": "Transformers",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BNDg1NTU2OWEtM2UzYi00ZWRmLWEwMTktZWNjYWQ1NWM1OThjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2007-07-07T03:00:00.000Z",
+      "descricao": "An ancient struggle between two Cybertronian races, the heroic Autobots and the evil Decepticons, comes to Earth, with a clue to the ultimate power held by a teenager.",
+      "nota": 7,
+      "urlIMDb": "https://www.imdb.com/title/tt0418279/?ref_=fn_al_tt_1",
+      "genero": "Ação",
+      "id": 11
+    },
+    {
+      "titulo": "Transformers: O Último Cavaleiro",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BN2YwOWM4ODgtZTMzMi00ZmFmLTk5NTEtNmY4ZDcwNzQxNDhjXkEyXkFqcGdeQXVyNTI0NzAyNjY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2017-07-20T03:00:00.000Z",
+      "descricao": "A deadly threat from Earth's history reappears and a hunt for a lost artifact takes place between Autobots and Decepticons, while Optimus Prime encounters his creator in space.",
+      "nota": 5.2,
+      "urlIMDb": "https://www.imdb.com/title/tt3371366/?ref_=fn_al_tt_4",
+      "genero": "Ação",
+      "id": 12
+    },
+    {
+      "titulo": "Trovão Tropical",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BNDE5NjQzMDkzOF5BMl5BanBnXkFtZTcwODI3ODI3MQ@@._V1_UY268_CR4,0,182,268_AL_.jpg",
+      "dtLancamento": "2008-08-29T03:00:00.000Z",
+      "descricao": "Through a series of freak occurrences, a group of actors shooting a big-budget war movie are forced to become the soldiers they are portraying. ",
+      "nota": 7,
+      "urlIMDb": "https://www.imdb.com/title/tt0942385/?ref_=nv_sr_srsg_0",
+      "genero": "Ação",
+      "id": 13
+    },
+    {
+      "titulo": "Ash vs Evil Dead",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMTYyMjQyNTE5MF5BMl5BanBnXkFtZTgwMjEyMjE2NDM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2018-02-25T03:00:00.000Z",
+      "descricao": "Ash has spent the last thirty years avoiding responsibility, maturity, and the terrors of the Evil Dead until a Deadite plague threatens to destroy all of mankind and Ash becomes mankind's only hope. ",
+      "nota": 8.4,
+      "urlIMDb": "https://www.imdb.com/title/tt4189022/?ref_=nv_sr_srsg_1",
+      "genero": "Ação",
+      "id": 14
+    },
+    {
+      "titulo": "Teste",
+      "urlFoto": "",
+      "dtLancamento": "2020-12-10T03:00:00.000Z",
+      "descricao": "",
+      "nota": 0,
+      "urlIMDb": "",
+      "genero": "Ação",
+      "id": 15
     }
   ]
 }
