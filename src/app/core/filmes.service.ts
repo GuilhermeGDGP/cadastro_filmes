@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { HttpClient, HttpParams } from '@angular/common/http';
+import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
 import { Filme } from '../shared/models/filme';
 import { ConfigParams } from '../shared/models/config-params';
@@ -25,6 +25,10 @@ export class FilmesService {
 
   visualizar(id: number): Observable<Filme> {
     return this.http.get<Filme>(url + id);
+  }
+
+  excluir(id: number): Observable<void> {
+    return this.http.delete<void>(url + id);
   }
 
 }

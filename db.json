@@ -139,16 +139,6 @@
       "urlIMDb": "https://www.imdb.com/title/tt4189022/?ref_=nv_sr_srsg_1",
       "genero": "Ação",
       "id": 14
-    },
-    {
-      "titulo": "filme sem descrição e foto",
-      "urlFoto": "",
-      "dtLancamento": "2020-12-13T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDb": "",
-      "genero": "Terror",
-      "id": 15
     }
   ]
 }
