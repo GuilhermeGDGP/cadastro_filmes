@@ -31,4 +31,8 @@ export class FilmesService {
     return this.http.delete<void>(url + id);
   }
 
+  editar(filme: Filme): Observable<Filme> {
+    return this.http.put<Filme>(url + filme.id, filme);
+  }
+
 }
