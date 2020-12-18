@@ -21,12 +21,21 @@ const routes: Routes = [
       },
       {
         path: 'cadastro',
-        component: CadastroFilmesComponent,
-        pathMatch: 'full'
+        children: [
+          {
+            path: '',
+            component: CadastroFilmesComponent
+          },
+          {
+            path: ':id',
+            component: CadastroFilmesComponent
+          }
+        ]
       },
       {
         path: ':id',
-        component: VisualizarFilmeComponent
+        component: VisualizarFilmeComponent,
+        pathMatch: 'full'
       },
     ]
   },
